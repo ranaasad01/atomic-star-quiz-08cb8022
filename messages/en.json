@@ -1,0 +1,236 @@
+{
+  "nav": {
+    "home": "Home",
+    "howToPlay": "How to Play",
+    "questions": "Questions",
+    "play": "Play",
+    "howItWorks": "How it works"
+  },
+  "footer": {
+    "tagline": "Made with ❤️ for curious kids!"
+  },
+  "hero": {
+    "title": "Star Quiz",
+    "tagline": "8 fun questions — earn a ⭐ for every right answer!",
+    "cta": "Let's Play! 🎉",
+    "topics": [
+      {
+        "emoji": "🐾",
+        "label": "Animals"
+      },
+      {
+        "emoji": "🎨",
+        "label": "Colours"
+      },
+      {
+        "emoji": "🚀",
+        "label": "Space"
+      },
+      {
+        "emoji": "⭐",
+        "label": "8 Questions"
+      }
+    ]
+  },
+  "progress-bar": [
+    "Question 1 of 8 — just getting started! 🌱",
+    "Question 2 of 8 — nice one, keep it up! 😊",
+    "Question 3 of 8 — you're on a roll! 🎲",
+    "Question 4 of 8 — halfway there! 🌟",
+    "Question 5 of 8 — more than halfway! 🚀",
+    "Question 6 of 8 — almost done! 💪",
+    "Question 7 of 8 — one more after this! 🎯",
+    "Question 8 of 8 — last question! Give it your best! 🏁"
+  ],
+  "question-card": [
+    {
+      "emoji": "🐘",
+      "question": "What is the biggest animal on land?",
+      "answers": [
+        "Elephant 🐘",
+        "Giraffe 🦒",
+        "Tiger 🐯",
+        "Penguin 🐧"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "emoji": "🌈",
+      "question": "What colour do you get when you mix red and yellow?",
+      "answers": [
+        "Orange 🟠",
+        "Purple 🟣",
+        "Green 🟢",
+        "Blue 🔵"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "emoji": "🚀",
+      "question": "Which planet is closest to the Sun?",
+      "answers": [
+        "Mercury ☀️",
+        "Mars 🔴",
+        "Jupiter 🪐",
+        "Saturn 💫"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "emoji": "🐬",
+      "question": "Where do dolphins live?",
+      "answers": [
+        "In the ocean 🌊",
+        "In the jungle 🌿",
+        "On mountains ⛰️",
+        "In the desert 🏜️"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "emoji": "⭐",
+      "question": "How many points does a star shape have?",
+      "answers": [
+        "5 ✋",
+        "3 🤟",
+        "8 🎱",
+        "10 🔟"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "emoji": "🌙",
+      "question": "What do we call the big bright thing we see in the sky at night?",
+      "answers": [
+        "The Moon 🌙",
+        "The Sun ☀️",
+        "A comet 💥",
+        "A cloud ☁️"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "emoji": "🦜",
+      "question": "What colour is a flamingo?",
+      "answers": [
+        "Pink 🩷",
+        "Blue 💙",
+        "Green 💚",
+        "Yellow 💛"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "emoji": "🐝",
+      "question": "What do bees make?",
+      "answers": [
+        "Honey 🍯",
+        "Milk 🥛",
+        "Juice 🧃",
+        "Jam 🍓"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "feedback": [
+    "✅ Correct! Amazing job! You earned a ⭐!",
+    "✅ Yes! That's right! You're so smart! ⭐",
+    "✅ Brilliant! Another star for you! 🌟",
+    "✅ Wow, you knew that! Great work! ⭐",
+    "❌ Oops! That's not quite right — but that's okay! You'll get the next one! 💪",
+    "❌ Not this time! Keep trying — you're doing great! 😊",
+    "❌ So close! Don't give up — the next question is waiting for you! 🚀",
+    "❌ That was a tricky one! You've got this — keep going! 🌈"
+  ],
+  "score-screen": [
+    "⭐⭐⭐⭐⭐⭐⭐⭐ — 8 out of 8! You're a STAR CHAMPION! 🏆🎉",
+    "⭐⭐⭐⭐⭐⭐⭐ — 7 out of 8! So close to perfect — amazing! 🌟",
+    "⭐⭐⭐⭐⭐⭐ — 6 out of 8! Super duper well done! 🎊",
+    "⭐⭐⭐⭐⭐ — 5 out of 8! More than half — great job! 😄",
+    "⭐⭐⭐⭐ — 4 out of 8! Good going! Try again to get more stars! 💪",
+    "⭐⭐⭐ — 3 out of 8! Nice try! Play again and you'll do even better! 🌈",
+    "⭐⭐ — 2 out of 8! Keep practising — you're learning lots! 🐣",
+    "⭐ — 1 out of 8! Everyone starts somewhere — play again and watch those stars grow! 🌱",
+    "🌟 — 0 out of 8! Don't worry — try again and you'll surprise yourself! 😊"
+  ],
+  "quiz": {
+    "startHeading": "⭐ Star Quiz! ⭐",
+    "startBody": "Can you get all 8 stars? 🌈 Answer questions about animals, colours and space! Press the big button to start. Good luck! 🚀",
+    "startCta": "Let's Play! 🎉",
+    "progressLabel": "Question {current} of {total}",
+    "pickAnswer": "Pick your answer! 👇",
+    "nextQuestion": "Next Question ➡️",
+    "finishedHeading": "Quiz finished! 🎉",
+    "finishedBody": "You did it! Look at all those stars you collected! 🌟 Every question you tried makes you smarter. Want to play again and beat your score?",
+    "playAgain": "Play Again 🔄",
+    "yourScore": "Your Score",
+    "starsEarned": "stars earned",
+    "questionLabel": "Question",
+    "of": "/",
+    "yourStars": "Your Stars",
+    "complete": "Quiz Complete!"
+  },
+  "meta": {
+    "title": "Star Quiz — Fun quiz for kids!",
+    "description": "8 easy questions about animals, colours and space. Earn a star for every right answer!"
+  },
+  "howItWorks": {
+    "heading": "How it works 🎮",
+    "steps": [
+      {
+        "emoji": "🎯",
+        "title": "Pick an answer",
+        "desc": "Tap one of the four big colourful buttons to choose your answer."
+      },
+      {
+        "emoji": "⭐",
+        "title": "Earn a star",
+        "desc": "Get it right and a shiny star is added to your collection!"
+      },
+      {
+        "emoji": "💪",
+        "title": "Keep going",
+        "desc": "Wrong answers are okay — a friendly hint keeps you going."
+      },
+      {
+        "emoji": "🏆",
+        "title": "See your score",
+        "desc": "After 8 questions, find out how many stars you collected!"
+      }
+    ]
+  },
+  "funFacts": {
+    "heading": "Did you know? 🤔",
+    "facts": [
+      {
+        "emoji": "🐘",
+        "fact": "Elephants are the only animals that can't jump!"
+      },
+      {
+        "emoji": "🌈",
+        "fact": "A rainbow always appears opposite the Sun."
+      },
+      {
+        "emoji": "🚀",
+        "fact": "Mercury is so close to the Sun that a year there lasts just 88 days!"
+      },
+      {
+        "emoji": "🐬",
+        "fact": "Dolphins sleep with one eye open to watch for danger."
+      },
+      {
+        "emoji": "🦜",
+        "fact": "Flamingos are born white — they turn pink from the food they eat!"
+      },
+      {
+        "emoji": "🐝",
+        "fact": "A single bee makes only about one teaspoon of honey in its lifetime."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to collect all 8 stars? 🌟",
+    "sub": "Tap the button and show off your knowledge!",
+    "button": "Play Now 🚀"
+  }
+}
